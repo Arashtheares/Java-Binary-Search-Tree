@@ -1,4 +1,4 @@
-PROJECT TITLE: Queue Simulator using Java
+PROJECT TITLE: Binary Search Tree
 PURPOSE OF PROJECT: Learning Java
 VERSION or DATE: 20th April 2024
 HOW TO START THIS PROJECT:
